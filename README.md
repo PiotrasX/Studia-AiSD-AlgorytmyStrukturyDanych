@@ -1,2 +1,4 @@
 # Studia-AiSD-AlgorytmyStrukturyDanych
-Opis główny test
+Opis test1..
+test2...
+test3..
