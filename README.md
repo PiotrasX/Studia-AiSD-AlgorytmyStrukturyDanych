@@ -15,18 +15,10 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Algory
 
 ---
 
-<br>  
-
----
-
 ## ⚙️ Wykorzystane technologie
 
 - `Język programowania`: Java.  
 - `IDE`: IntelliJ IDEA Community Edition.  
-
----
-
-<br>  
 
 ---
 
@@ -41,18 +33,10 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Algory
 
 ---
 
-<br>  
-
----
-
 ## ✅ Status
 
 Repozytorium ukończone – nie będzie już rozwijane.  
 Mogą pojawić się drobne poprawki lub aktualizacje, jeśli zajdzie taka potrzeba.  
-
----
-
-<br>  
 
 ---
 
