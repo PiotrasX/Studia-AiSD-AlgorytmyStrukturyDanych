@@ -27,15 +27,15 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Algory
   - Metoda probabilistyczna (Monte Carlo).  
   - Programowanie dynamiczne.  
   - Dziel i zwyciężaj.  
-  - Algorytm zachłanny.
-- Implementacja konkretnych struktur danych:
+  - Algorytm zachłanny.  
+- Implementacja konkretnych struktur danych:  
   - Tablica dynamiczna.  
   - Uporządkowana tablica dynamiczna.  
   - Lista powiązana liczb całkowitych.  
   - Uporządkowana lista powiązana liczb całkowitych.  
   - Drzewo BST liczb całkowitych.  
   - Tablica mieszająca metodą łańcuchową.  
-- Implementacja abstrakcyjnych struktur danych:
+- Implementacja abstrakcyjnych struktur danych:  
   - Stos za pomocą klasy ArrayList.  
   - Stos za pomocą klasy LinkedList.  
   - Kolejka za pomocą klasy ArrayList.  
