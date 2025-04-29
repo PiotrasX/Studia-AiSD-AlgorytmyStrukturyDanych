@@ -4,6 +4,7 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Algory
 
 ---
 
+  
 ## 📁 Struktura repozytorium
 
 - `Zadania/Laboratoria/src` – Zadania realizowane podczas zajęć dydaktycznych.  
@@ -11,6 +12,7 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Algory
 
 ---
 
+  
 ## ⚙️ Wykorzystane technologie
 
 - Język programowania: Java.  
@@ -18,9 +20,9 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Algory
 
 ---
 
+  
 ## 🔍 Zakres tematyczny
 
-- Różne podejścia do sortowania: brutalnie, dynamicznie, dziel i zwyciężaj, monte carlo, zachłannie.  
 - Różne podejścia do sortowania:  
   - Metoda brutalna.  
   - Programowanie dynamiczne.  
@@ -30,6 +32,7 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Algory
 
 ---
 
+  
 ## ✅ Status
 
 Repozytorium ukończone – nie będzie już rozwijane.  
@@ -37,6 +40,7 @@ Mogą pojawić się drobne poprawki lub aktualizacje, jeśli zajdzie taka potrze
 
 ---
 
+  
 ## 📄 Licencja
 
 Projekt ma charakter edukacyjny.  
