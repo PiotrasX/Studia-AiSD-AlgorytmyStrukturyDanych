@@ -4,7 +4,7 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Algory
 
 ---
 
-<br>  
+&nbsp;  
 
 ---
 
