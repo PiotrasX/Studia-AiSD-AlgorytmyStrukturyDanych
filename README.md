@@ -8,8 +8,8 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Algory
 
 ## 📁 Struktura repozytorium
 
-- `Zadania/Laboratoria/src` – Zadania realizowane podczas zajęć dydaktycznych.  
-- `Zadania/Problemy Informatyczne/src` – Zadania realizowane samodzielnie jako uzupełnienie, rozszerzenie i utrwalenie materiału.  
+- `Zadania/Laboratoria/src` – Zadania realizowane podczas zajęć dydaktycznych. Zawierają implementacje podstawowych algorytmów i struktur danych omawianych na laboratoriach, a także przykładowe rozwiązania zadań przygotowujących do kolokwium.  
+- `Zadania/Problemy Informatyczne/src` – Zadania realizowane samodzielnie jako uzupełnienie, rozszerzenie i utrwalenie materiału. Mają na celu pogłębienie wiedzy, rozwinięcie umiejętności algorytmicznego myślenia oraz utrwalenie materiału poznanego na laboratoriach i wykładach.  
 
 ---
 
