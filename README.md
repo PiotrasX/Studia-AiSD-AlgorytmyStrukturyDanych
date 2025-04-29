@@ -6,6 +6,8 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Algory
 
 <br>  
 
+---
+
 ## 📁 Struktura repozytorium
 
 - `Zadania/Laboratoria/src` – Zadania realizowane podczas zajęć dydaktycznych.  
@@ -15,27 +17,33 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Algory
 
 <br>  
 
+---
+
 ## ⚙️ Wykorzystane technologie
 
-- Język programowania: Java.  
-- IDE: IntelliJ IDEA Community Edition.  
+- `Język programowania`: Java.  
+- `IDE`: IntelliJ IDEA Community Edition.  
 
 ---
 
 <br>  
 
+---
+
 ## 🔍 Zakres tematyczny
 
 - Różne podejścia do sortowania:  
-  - Metoda brutalna.  
+  - Metoda brutalna.
+  - Metoda probabilistyczna (Monte Carlo).  
   - Programowanie dynamiczne.  
   - Dziel i zwyciężaj.  
-  - Metoda probabilistyczna (Monte Carlo).  
   - Algorytm zachłanny.  
 
 ---
 
 <br>  
+
+---
 
 ## ✅ Status
 
@@ -46,8 +54,12 @@ Mogą pojawić się drobne poprawki lub aktualizacje, jeśli zajdzie taka potrze
 
 <br>  
 
+---
+
 ## 📄 Licencja
 
 Projekt ma charakter edukacyjny.  
 Możesz swobodnie korzystać z kodu do celów prywatnych i naukowych (np.: do nauki, powtórki do kolokwium, własnych eksperymentów).  
 Autor nie ponosi odpowiedzialności za wykorzystanie kodu niezgodnie z jego przeznaczeniem.  
+
+---
