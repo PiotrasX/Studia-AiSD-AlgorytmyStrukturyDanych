@@ -5,6 +5,7 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Algory
 ---
 
 <br>  
+
 ## 📁 Struktura repozytorium
 
 - `Zadania/Laboratoria/src` – Zadania realizowane podczas zajęć dydaktycznych.  
@@ -13,6 +14,7 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Algory
 ---
 
 <br>  
+
 ## ⚙️ Wykorzystane technologie
 
 - Język programowania: Java.  
@@ -21,6 +23,7 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Algory
 ---
 
 <br>  
+
 ## 🔍 Zakres tematyczny
 
 - Różne podejścia do sortowania:  
@@ -33,6 +36,7 @@ Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Algory
 ---
 
 <br>  
+
 ## ✅ Status
 
 Repozytorium ukończone – nie będzie już rozwijane.  
@@ -41,6 +45,7 @@ Mogą pojawić się drobne poprawki lub aktualizacje, jeśli zajdzie taka potrze
 ---
 
 <br>  
+
 ## 📄 Licencja
 
 Projekt ma charakter edukacyjny.  
