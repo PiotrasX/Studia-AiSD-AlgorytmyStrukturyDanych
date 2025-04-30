@@ -2,7 +2,7 @@
 
 Repozytorium zawiera rozwiązania zadań opracowane w ramach przedmiotu **Algorytmy i Struktury Danych**, realizowanego na Uniwersytecie Rzeszowskim podczas trzeciego (3) semestru studiów informatycznych.  
 
-&nbsp;
+&nbsp;  
 
 ---
 
